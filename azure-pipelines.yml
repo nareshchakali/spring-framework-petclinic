@@ -30,7 +30,7 @@ stages:
       vmImage: $(vmImageName)
 
     steps:
-    - task: Maven@3.209
+    - task: Maven@3
       displayName: 'Maven Package'
       inputs:
         mavenPomFile: 'pom.xml'
