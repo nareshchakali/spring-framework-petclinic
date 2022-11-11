@@ -15,7 +15,7 @@ variables:
   webAppName: 'petclinic-app'
 
   # Environment name
-  environmentName: 'petclinic-app'
+  environmentName: 'petclinic-app(1)'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
